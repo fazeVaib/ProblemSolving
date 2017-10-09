@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a111f4af-2659-4954-8ea0-1965bf7dd9e0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CircularArrayRotation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SequenceEquation.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ConvexHullProblem.py" afterPath="$PROJECT_DIR$/ConvexHullProblem.py" />
     </list>
@@ -15,14 +16,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ConvexHullProblem.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConvexHullProblem.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ConvexHullProblem.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="38" column="11" lean-forward="false" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+            <state relative-caret-position="-18">
+              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CircularArrayRotation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CircularArrayRotation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SequenceEquation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SequenceEquation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -43,6 +64,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ConvexHullProblem.py" />
+        <option value="$PROJECT_DIR$/CircularArrayRotation.py" />
+        <option value="$PROJECT_DIR$/SequenceEquation.py" />
       </list>
     </option>
   </component>
@@ -52,7 +75,9 @@
     <option name="width" value="1120" />
     <option name="height" value="792" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -70,7 +95,17 @@
     <panes>
       <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProblemSolving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProblemSolving" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="RunDashboard">
@@ -85,7 +120,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ConvexHullProblem">
+  <component name="RunManager" selected="Python.SequenceEquation">
+    <configuration name="CircularArrayRotation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProblemSolving" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CircularArrayRotation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="ConvexHullProblem" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,9 +155,33 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="SequenceEquation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ProblemSolving" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SequenceEquation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.ConvexHullProblem" />
+      <item index="1" class="java.lang.String" itemvalue="Python.CircularArrayRotation" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SequenceEquation" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.ConvexHullProblem" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.SequenceEquation" />
+        <item index="1" class="java.lang.String" itemvalue="Python.CircularArrayRotation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ConvexHullProblem" />
       </list>
     </recent_temporary>
   </component>
@@ -123,6 +199,14 @@
       <option name="presentableId" value="Default" />
       <updated>1507362615568</updated>
     </task>
+    <task id="LOCAL-00001" summary="hi">
+      <created>1507535897620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507535897620</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -178,6 +262,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hi" />
+    <option name="LAST_COMMIT_MESSAGE" value="hi" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -205,11 +293,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ConvexHullProblem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="38" column="11" lean-forward="false" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        <state relative-caret-position="-18">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CircularArrayRotation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SequenceEquation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
